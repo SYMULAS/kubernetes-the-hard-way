@@ -1,0 +1,16 @@
+# Labs Progress
+
+- [x] [Prerequisites](../docs/01-prerequisites.md)
+- [x] [Installing the Client Tools](../docs/02-client-tools.md)
+- [x] [Provisioning Compute Resources](../docs/03-compute-resources.md)
+- [x] [Provisioning the CA and Generating TLS Certificates](../docs/04-certificate-authority.md)
+- [x] [Generating Kubernetes Configuration Files for Authentication](../docs/05-kubernetes-configuration-files.md)
+- [x] [Generating the Data Encryption Config and Key](../docs/06-data-encryption-keys.md)
+- [x] [Bootstrapping the etcd Cluster](../docs/07-bootstrapping-etcd.md)
+- [x] [Bootstrapping the Kubernetes Control Plane](../docs/08-bootstrapping-kubernetes-controllers.md)
+- [x] [Bootstrapping the Kubernetes Worker Nodes](../docs/09-bootstrapping-kubernetes-workers.md)
+- [x] [Configuring kubectl for Remote Access](../docs/10-configuring-kubectl.md)
+- [x] [Provisioning Pod Network Routes](../docs/11-pod-network-routes.md)
+- [x] [Deploying the DNS Cluster Add-on](../docs/12-dns-addon.md)
+- [x] [Smoke Test](../docs/13-smoke-test.md)
+- [x] [Cleaning Up](../docs/14-cleanup.md)
